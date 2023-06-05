@@ -4,3 +4,6 @@
 [submodule "swap-demo/themes/anatole"]
 	path = swap-demo/themes/anatole
 	url = https://github.com/lxndrblz/anatole.git
+[submodule "swap-blog/themes/anatole"]
+	path = swap-blog/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
