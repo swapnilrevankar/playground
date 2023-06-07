@@ -48,7 +48,7 @@ In the Mash_Curve node set “Step” to 1 and “Animation speed” to 0. I use
 # Number Of Points
 
 In the Mash_Distribute node adjust “Number of points”.
-![image alt text](/NumberOfPoints01.gif)
+{{< figure src="/duplicate_objects_along_curve_06.gif" alt="image" caption="number-of-points" class="big" >}}
 
 Thank you for reading! Hope you find some of the information useful to your work.
 
