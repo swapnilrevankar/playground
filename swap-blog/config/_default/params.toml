@@ -3,7 +3,7 @@ title = "I'm Swapnil Revankar"
 author = "Swapnil Revankar"
 #copyright = "2023-2024"
 description = "Tech Art Blog"
-profilePicture = "images/profile.jpg"
+profilePicture = "/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
